@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="IconAbort">resource/abort.png</file>
+        <file alias="IconDownload">resource/download.png</file>
+        <file alias="IconSave">resource/save.png</file>
+        <file alias="IconQuit">resource/quit.png</file>
+        <file alias="IconProgram">resource/icon.png</file>
+    </qresource>
+</RCC>
